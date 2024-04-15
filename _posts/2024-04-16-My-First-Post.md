@@ -1,6 +1,5 @@
 ---
 title: Writing a New Post
-author: Lacroix
 date: 2024-04-16 5:48:00 +0900
 categories: [Blogging, Tutorial]
 tags: [writing]
