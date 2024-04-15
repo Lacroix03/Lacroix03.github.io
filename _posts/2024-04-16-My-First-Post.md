@@ -1,11 +1,11 @@
 ---
 title: Writing a New Post
 author: Lacroix
-date: 2024-04-16 6:00:00 +0800
+date: 2024-04-16 5:48:00 +0900
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
 ---
 
-# This is my first Post!
-Hi
+## This is my first Post!
+Hi, my name is soeun :)
