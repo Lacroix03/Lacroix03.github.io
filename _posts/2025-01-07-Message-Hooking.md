@@ -1,8 +1,10 @@
 ---
 title: 21장. Windows 메시지 후킹
-date: 2025-01-07 17:45:00 +0900
+date: 2025-01-07 17:55:00 +0900
 categories: [Security]
 tags: [Reversing]
+toc: true
+toc_sticky: true
 render_with_liquid: false
 ---
 ## Hook이란?
@@ -18,7 +20,6 @@ render_with_liquid: false
 Windows 운영체제는 GUI(Graphic User Interface)를 제공하고, 이는 Event Driven 방식으로 동작한다.
 
 <aside>
-💡
 
 event란, 프로그램에 의해 감지되고 처리될 수 있는 동작이나 사건이다. 
 
