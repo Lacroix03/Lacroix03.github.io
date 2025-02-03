@@ -1,8 +1,8 @@
 ---
-title: 21장. Windows 메시지 후킹
-date: 2025-01-07 17:55:00 +0900
+title: [Reversing.kr] Easy Crack
+date: 2025-02-03 20:42:00 +0900
 categories: [Security]
-tags: [Reversing]
+tags: [Reversing.kr]
 toc: true
 toc_sticky: true
 render_with_liquid: false
