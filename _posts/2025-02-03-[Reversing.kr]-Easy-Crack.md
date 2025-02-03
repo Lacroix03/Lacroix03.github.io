@@ -1,12 +1,14 @@
 ---
-title: [Reversing.kr] Easy Crack
-date: 2025-02-03 20:42:00 +0900
-categories: [Security]
-tags: [Reversing.kr]
+title: "[Reversing.kr] Easy Crack"
+date: "2025-02-03 20:42:00 +0900"
+categories:
+  - Security
+tags:
+  - Reversing.kr
 toc: true
 toc_sticky: true
 render_with_liquid: false
-published : true
+published: true
 ---
 # Easy Crack
 
