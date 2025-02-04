@@ -10,8 +10,6 @@ toc_sticky: true
 render_with_liquid: false
 published: true
 ---
-# Easy Crack
-
 ## 문제 내용
 
 x32dbg로 파일을 열어 비밀 번호를 알아내는 간단한 문제.
