@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Lacroix # the main title
 
-tagline: Hope this help! :) # it will display as the sub-title
+tagline: Fake it until you make it # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
